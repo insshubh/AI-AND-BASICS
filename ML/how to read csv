@@ -1,0 +1,8 @@
+# if there is a given dataset then we use pandas library to read csv file as 
+
+
+immport pandas as pd 
+data = pd.read_csv('source ')  # here source is dataset location
+
+
+
