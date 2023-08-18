@@ -2,7 +2,7 @@ import telebot
 import math
 
 # Replace 'YOUR_BOT_TOKEN' with your actual bot token
-bot = telebot.TeleBot('6402365297:AAE7zKH4qHPBzO_p6ufju54FyI6K1l0dbd0')
+bot = telebot.TeleBot('API KEY')
 
 @bot.message_handler(commands=['start', 'help'])
 def send_welcome(message):
