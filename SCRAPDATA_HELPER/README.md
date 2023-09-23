@@ -1,10 +1,5 @@
 <h2 align="center">SCRAPED Data Viewer</h1>
 <p align="center">Search your querry related With Scrap Data on along with talking to a chatbot</p>
-<p align='center'>
-<img src="https://media.giphy.com/media/x4unLoM3hApc2Cw5kO/giphy.gif"/>
-</p>
- 
-<p>
  <ol>
 <li>This is a small python project to Srap Data of Multiple pages and Store it to Csv format </li> <li>I created this project for MotionCut  am thinking to turn it to a complete chatbot service for python soon where user No need to Search or find Details on Website they just give title and Chatbot shows all Related Values to it .</li></ol>
  </p>
