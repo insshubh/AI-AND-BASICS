@@ -1,13 +1,13 @@
-# 
-![GuviCertification - G969A052n11rVs10ZL](https://github.com/insshubh/ML-AND-Python/assets/110806514/abb682d5-2420-452b-bbac-9b91469ac3e4)
-# Python Projects Showcase
-
+## Python Development
 Welcome to my Python projects repository! Here, you'll find a collection of Python projects that cover a range of topics from basic to advanced. Each project demonstrates the use of different libraries and technologies to solve various problems.
 
 ## Projects
 
 ### Basic Projects
 1. **Hello World**: A simple "Hello, World!" Python script to get started.
+
+
+  ![GuviCertification - G969A052n11rVs10ZL](https://github.com/insshubh/ML-AND-Python/assets/110806514/abb682d5-2420-452b-bbac-9b91469ac3e4 )
 
 ### Data Manipulation and Analysis
 2. **Data Analysis with Pandas**: Analyzing a dataset using the Pandas library.
