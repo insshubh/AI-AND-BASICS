@@ -36,4 +36,5 @@ Feel free to contribute to any of the projects or suggest new projects that you'
 ## Contact
 If you have any questions or suggestions, please feel free to [contact me](mailto:insshubh22@gmail.com).
 
-Happy coding!
+Happy coding!..
+
