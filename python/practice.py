@@ -1,3 +1,5 @@
+from love_Calc import check
+
 """
 def highest_even(li):
     high = -1
@@ -65,9 +67,7 @@ def selection_sort(ar):
 """
 
 # selection_sort(arr)
-#print_arr(arr)
+# print_arr(arr)
 
-
-
-
-
+if __name__ == "__main__":
+    check(30)
