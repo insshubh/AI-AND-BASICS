@@ -32,7 +32,7 @@ The real-time weather data is fetched using the OpenWeatherMap API. It provides 
 
 ## Screenshots
 
-(![img.png](img.png))
+![Screenshot of the App](Weatherapp/Screenshot%202023-10-07%20210945.png)
 
 ## SHOW SOME LOVE TO THIS REPO 
 
